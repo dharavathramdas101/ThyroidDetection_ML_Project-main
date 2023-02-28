@@ -2,7 +2,7 @@
 ![image](https://user-images.githubusercontent.com/102937478/216236728-dad1775c-37bc-45a5-861e-9e430ea781e3.png)
 
 
-```
+
 ## Problem Statement
 Thyroid disease is one of the most common disease with endocrine disorder in the human population today. For example hyperthyroidism (over) and hypothyroidism (under), which are relate to release of amount of thyroid hormones the thyroid gland produces and whether it is over active trusted source (when thyroid gland makes too much thyroid hormone) or under active trusted source (when the thyroid gland doesn’t make enough thyroid hormone). We need to identify whether the patient has thyroid or not.
 
